@@ -1,0 +1,1084 @@
+TRACE::2021-03-18.16:03:20::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:20::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:20::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-03-18.16:03:22::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2021-03-18.16:03:22::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3"
+		}]
+}
+TRACE::2021-03-18.16:03:22::SCWPlatform::Boot application domains not present, creating them
+TRACE::2021-03-18.16:03:22::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2021-03-18.16:03:22::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3"
+		}]
+}
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:22::SCWDomain::checking for install qemu data   : 
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:22::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:22::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-03-18.16:03:22::SCWMssOS::No sw design opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::mss does not exists at D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::Creating sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::Adding the swdes entry, created swdb D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss with des name D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::updating the scw layer changes to swdes at   D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::Writing mss at D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:22::SCWMssOS::Completed writing the mss file at D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp
+TRACE::2021-03-18.16:03:22::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2021-03-18.16:03:22::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2021-03-18.16:03:22::SCWMssOS::Completed writing the mss file at D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp
+TRACE::2021-03-18.16:03:22::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Running validate of swdbs.
+KEYINFO::2021-03-18.16:03:23::SCWMssOS::Could not open the swdb for D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2021-03-18.16:03:23::SCWMssOS::Could not open the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-03-18.16:03:23::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-03-18.16:03:23::SCWMssOS::Writing the mss file completed D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"0002e9bee8e96011d20c0e9895830a88",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2021-03-18.16:03:23::SCWPlatform::Started generating the artifacts platform uart3
+TRACE::2021-03-18.16:03:23::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-03-18.16:03:23::SCWPlatform::Started generating the artifacts for system configuration uart3
+LOG::2021-03-18.16:03:23::SCWSystem::Checking the domain standalone_domain
+LOG::2021-03-18.16:03:23::SCWSystem::Not a boot domain 
+LOG::2021-03-18.16:03:23::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2021-03-18.16:03:23::SCWDomain::Generating domain artifcats
+TRACE::2021-03-18.16:03:23::SCWMssOS::Generating standalone artifcats
+TRACE::2021-03-18.16:03:23::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Completed writing the mss file at D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp
+TRACE::2021-03-18.16:03:23::SCWMssOS::Mss edits present, copying mssfile into export location D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-03-18.16:03:23::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-03-18.16:03:23::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2021-03-18.16:03:23::SCWMssOS::skipping the bsp build ... 
+TRACE::2021-03-18.16:03:23::SCWMssOS::Copying to export directory.
+TRACE::2021-03-18.16:03:23::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-03-18.16:03:23::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-03-18.16:03:23::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2021-03-18.16:03:23::SCWSystem::Completed Processing the sysconfig uart3
+LOG::2021-03-18.16:03:23::SCWPlatform::Completed generating the artifacts for system configuration uart3
+TRACE::2021-03-18.16:03:23::SCWPlatform::Started preparing the platform 
+TRACE::2021-03-18.16:03:23::SCWSystem::Writing the bif file for system config uart3
+TRACE::2021-03-18.16:03:23::SCWSystem::dir created 
+TRACE::2021-03-18.16:03:23::SCWSystem::Writing the bif 
+TRACE::2021-03-18.16:03:23::SCWPlatform::Started writing the spfm file 
+TRACE::2021-03-18.16:03:23::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-03-18.16:03:23::SCWPlatform::Completed generating the platform
+TRACE::2021-03-18.16:03:23::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"0002e9bee8e96011d20c0e9895830a88",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-03-18.16:03:23::SCWPlatform::updated the xpfm file.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"0002e9bee8e96011d20c0e9895830a88",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"0002e9bee8e96011d20c0e9895830a88",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-03-18.16:03:23::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-18.16:03:23::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:23::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:23::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"0002e9bee8e96011d20c0e9895830a88",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2021-03-18.16:03:23::SCWPlatform::Clearing the existing platform
+TRACE::2021-03-18.16:03:23::SCWSystem::Clearing the existing sysconfig
+TRACE::2021-03-18.16:03:23::SCWMssOS::Removing the swdes entry for  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:23::SCWSystem::Clearing the domains completed.
+TRACE::2021-03-18.16:03:23::SCWPlatform::Clearing the opened hw db.
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform location is D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Removing the HwDB with name D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:23::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:23::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-03-18.16:03:24::SCWPlatform::Opened new HwDB with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWReader::Active system found as  uart3
+TRACE::2021-03-18.16:03:24::SCWReader::Handling sysconfig uart3
+TRACE::2021-03-18.16:03:24::SCWDomain::checking for install qemu data   : 
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:24::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-03-18.16:03:24::SCWMssOS::No sw design opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::mss exists loading the mss file  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::Opened the sw design from mss  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::Adding the swdes entry D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-03-18.16:03:24::SCWMssOS::updating the scw layer about changes
+TRACE::2021-03-18.16:03:24::SCWMssOS::Opened the sw design.  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:24::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-18.16:03:24::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:24::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-03-18.16:03:24::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:24::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:24::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:24::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:24::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:24::SCWReader::No isolation master present  
+LOG::2021-03-18.16:03:47::SCWPlatform::Started generating the artifacts platform uart3
+TRACE::2021-03-18.16:03:47::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-03-18.16:03:47::SCWPlatform::Started generating the artifacts for system configuration uart3
+LOG::2021-03-18.16:03:47::SCWSystem::Checking the domain standalone_domain
+LOG::2021-03-18.16:03:47::SCWSystem::Not a boot domain 
+LOG::2021-03-18.16:03:47::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2021-03-18.16:03:47::SCWDomain::Generating domain artifcats
+TRACE::2021-03-18.16:03:47::SCWMssOS::Generating standalone artifcats
+TRACE::2021-03-18.16:03:47::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-03-18.16:03:47::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:47::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:47::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:47::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:47::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:47::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:47::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:47::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:47::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:47::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:47::SCWMssOS::Completed writing the mss file at D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp
+TRACE::2021-03-18.16:03:47::SCWMssOS::Mss edits present, copying mssfile into export location D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:47::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-03-18.16:03:47::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-03-18.16:03:47::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2021-03-18.16:03:47::SCWMssOS::doing bsp build ... 
+TRACE::2021-03-18.16:03:47::SCWMssOS::System Command Ran  D: & cd  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp & make 
+TRACE::2021-03-18.16:03:47::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2021-03-18.16:03:47::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2021-03-18.16:03:47::SCWMssOS::-Wextra"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2021-03-18.16:03:47::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2021-03-18.16:03:47::SCWMssOS::-Wextra"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2021-03-18.16:03:47::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2021-03-18.16:03:47::SCWMssOS:: -Wextra"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2021-03-18.16:03:47::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2021-03-18.16:03:47::SCWMssOS::-Wall -Wextra"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartns550_v3_7/src"
+
+TRACE::2021-03-18.16:03:47::SCWMssOS::make -C microblaze_0/libsrc/uartns550_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2021-03-18.16:03:47::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2021-03-18.16:03:47::SCWMssOS::Wall -Wextra"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_5/src"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2021-03-18.16:03:48::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2021-03-18.16:03:48::SCWMssOS::xtra"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_12/src"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_12/src"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2021-03-18.16:03:48::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2021-03-18.16:03:48::SCWMssOS::xtra"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_12/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2021-03-18.16:03:48::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2021-03-18.16:03:48::SCWMssOS::extra"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_3/src"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2021-03-18.16:03:48::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2021-03-18.16:03:48::SCWMssOS::ll -Wextra"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartns550_v3_7/src"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::make -C microblaze_0/libsrc/uartns550_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2021-03-18.16:03:48::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2021-03-18.16:03:48::SCWMssOS::l -Wextra"
+
+TRACE::2021-03-18.16:03:48::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::make --no-print-directory archive
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xuartns550_format.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/mic
+TRACE::2021-03-18.16:03:49::SCWMssOS::roblaze_disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/m
+TRACE::2021-03-18.16:03:49::SCWMssOS::icroblaze_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/xuartns550_g.o microblaze_0/lib/mi
+TRACE::2021-03-18.16:03:49::SCWMssOS::croblaze_flush_cache_ext.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xuartns550_sinit.o microblaze_0/lib/xil_misc_psreset
+TRACE::2021-03-18.16:03:49::SCWMssOS::_api.o microblaze_0/lib/xuartns550_selftest.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0/lib/inbyte.
+TRACE::2021-03-18.16:03:49::SCWMssOS::o microblaze_0/lib/xbram_g.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xuartns550.o microblaze_0/lib/mic
+TRACE::2021-03-18.16:03:49::SCWMssOS::roblaze_scrub.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/l
+TRACE::2021-03-18.16:03:49::SCWMssOS::ib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/l
+TRACE::2021-03-18.16:03:49::SCWMssOS::ib/xuartns550_intr.o microblaze_0/lib/xuartns550_l.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xuartns550_stats.o microblaze_
+TRACE::2021-03-18.16:03:49::SCWMssOS::0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xuartns550_options.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/x
+TRACE::2021-03-18.16:03:49::SCWMssOS::il_sleepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xi
+TRACE::2021-03-18.16:03:49::SCWMssOS::ntc_l.o microblaze_0/lib/outbyte.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate
+TRACE::2021-03-18.16:03:49::SCWMssOS::_cache_ext.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xintc_intr.o microbla
+TRACE::2021-03-18.16:03:49::SCWMssOS::ze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/mi
+TRACE::2021-03-18.16:03:49::SCWMssOS::croblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_
+TRACE::2021-03-18.16:03:49::SCWMssOS::0/lib/xbram.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_
+TRACE::2021-03-18.16:03:49::SCWMssOS::0/lib/microblaze_invalidate_icache.o microblaze_0/lib/errno.o microblaze_0/lib/xintc_options.o microblaze_0/lib/microblaze_inva
+TRACE::2021-03-18.16:03:49::SCWMssOS::lidate_cache_ext_range.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xil_testmem.o microblaze_0/li
+TRACE::2021-03-18.16:03:49::SCWMssOS::b/microblaze_update_icache.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_as
+TRACE::2021-03-18.16:03:49::SCWMssOS::sert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xio.o microblaze_0/lib/microblaze_enable_icache.o micro
+TRACE::2021-03-18.16:03:49::SCWMssOS::blaze_0/lib/xintc.o microblaze_0/lib/fcntl.o microblaze_0/lib/microblaze_init_icache_range.o
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::'Finished building libraries'
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::Copying to export directory.
+TRACE::2021-03-18.16:03:49::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-03-18.16:03:49::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-03-18.16:03:49::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2021-03-18.16:03:49::SCWSystem::Completed Processing the sysconfig uart3
+LOG::2021-03-18.16:03:49::SCWPlatform::Completed generating the artifacts for system configuration uart3
+TRACE::2021-03-18.16:03:49::SCWPlatform::Started preparing the platform 
+TRACE::2021-03-18.16:03:49::SCWSystem::Writing the bif file for system config uart3
+TRACE::2021-03-18.16:03:49::SCWSystem::dir created 
+TRACE::2021-03-18.16:03:49::SCWSystem::Writing the bif 
+TRACE::2021-03-18.16:03:49::SCWPlatform::Started writing the spfm file 
+TRACE::2021-03-18.16:03:49::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-03-18.16:03:49::SCWPlatform::Completed generating the platform
+TRACE::2021-03-18.16:03:49::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:49::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-18.16:03:49::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-18.16:03:49::SCWMssOS::Commit changes completed.
+TRACE::2021-03-18.16:03:49::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:49::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:49::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:49::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:49::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:49::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:49::SCWWriter::formatted JSON is {
+	"platformName":	"uart3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"uart3",
+	"platHandOff":	"D:/0FPGA/project_uart3/top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"uart3",
+	"systems":	[{
+			"systemName":	"uart3",
+			"systemDesc":	"uart3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"uart3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"0002e9bee8e96011d20c0e9895830a88",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-03-18.16:03:49::SCWPlatform::updated the xpfm file.
+TRACE::2021-03-18.16:03:49::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-18.16:03:49::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-18.16:03:49::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-18.16:03:49::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-18.16:03:49::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-18.16:03:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-18.16:03:49::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-18.16:03:49::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-18.16:03:49::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-22.18:56:46::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-22.18:56:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-22.18:56:46::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-22.18:56:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-22.18:56:46::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-22.18:56:46::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::In reload Mss file.
+TRACE::2021-03-22.18:56:46::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-22.18:56:46::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-22.18:56:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-22.18:56:46::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-22.18:56:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-22.18:56:46::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2021-03-22.18:56:46::SCWMssOS::Could not open the swdb for system
+KEYINFO::2021-03-22.18:56:46::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2021-03-22.18:56:46::SCWMssOS::Cleared the swdb table entry
+TRACE::2021-03-22.18:56:46::SCWMssOS::No sw design opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::mss exists loading the mss file  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::Opened the sw design from mss  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::Adding the swdes entry D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2021-03-22.18:56:46::SCWMssOS::updating the scw layer about changes
+TRACE::2021-03-22.18:56:46::SCWMssOS::Opened the sw design.  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::Saving the mss changes D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-03-22.18:56:46::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-03-22.18:56:46::SCWMssOS::Commit changes completed.
+TRACE::2021-03-22.18:56:46::SCWPlatform::Trying to open the hw design at D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA given D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA absoulate path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform::DSA directory D:/0FPGA_SOFTWARE/UART3/uart3/hw
+TRACE::2021-03-22.18:56:46::SCWPlatform:: Platform Path D:/0FPGA_SOFTWARE/UART3/uart3/hw/top.xsa
+TRACE::2021-03-22.18:56:46::SCWPlatform:: Unique name xilinx:vc707::0.0
+TRACE::2021-03-22.18:56:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2021-03-22.18:56:46::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2021-03-22.18:56:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-03-22.18:56:46::SCWMssOS::Checking the sw design at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::DEBUG:  swdes dump  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2021-03-22.18:56:46::SCWMssOS::Sw design exists and opened at  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2021-03-22.18:56:46::SCWMssOS::Removing the swdes entry for  D:/0FPGA_SOFTWARE/UART3/uart3/microblaze_0/standalone_domain/bsp/system.mss

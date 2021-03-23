@@ -1,0 +1,13 @@
+23:02:51 **** Incremental Build of configuration Debug for project uart_transmission ****
+make all 
+'Building file: ../src/image_pc_send.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/image_pc_send.o" -ID:/0FPGA_SOFTWARE/UART3/uart3/export/uart3/sw/uart3/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/image_pc_send.d" -MT"src/image_pc_send.o" -o "src/image_pc_send.o" "../src/image_pc_send.c"
+../src/image_pc_send.c:9:10: fatal error: platform.h: No such file or directory
+    9 | #include "platform.h"
+      |          ^~~~~~~~~~~~
+compilation terminated.
+make: *** [src/subdir.mk:23: src/image_pc_send.o] Error 1
+
+23:02:51 Build Finished (took 208ms)
+

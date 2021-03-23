@@ -1,0 +1,20 @@
+Nothing to build in platform 'uart3'
+
+15:54:02 **** Incremental Build of configuration Debug for project hello_world ****
+make all 
+'Building file: ../src/image_send.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/image_send.o" -ID:/0FPGA_SOFTWARE/UART3/uart3/export/uart3/sw/uart3/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/image_send.d" -MT"src/image_send.o" -o "src/image_send.o" "../src/image_send.c"
+'Finished building: ../src/image_send.c'
+' '
+'Building target: hello_world.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/0FPGA_SOFTWARE/UART3/uart3/export/uart3/sw/uart3/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "hello_world.elf"  ./src/helloworld.o ./src/image_send.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hello_world.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size hello_world.elf  |tee "hello_world.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  14440	   1376	   3176	  18992	   4a30	hello_world.elf
+'Finished building: hello_world.elf.size'
+' '
